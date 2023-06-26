@@ -6,4 +6,4 @@ Tool for managing a company's interactions with customers
 
 | Attempt | #1    | #2    |
 | :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| **Seconds** | 301   | 283   |
